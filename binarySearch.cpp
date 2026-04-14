@@ -66,4 +66,6 @@ void display()
             cout << " -> ";
         }
     }
+    cout << endl;
+
 }
